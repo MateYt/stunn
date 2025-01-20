@@ -19,7 +19,7 @@ Very sensitive pag nagiging emotional, prone to crying,, its normal naman, my ba
 <br>Di pa masyadong nag oopen ng deep problems or stuff pero it's developing naman, you can tell me anything anytime, I won't judge, I won't go away, I'll stay and listen babi, If you have heavy worries pwede natin paghatian I'll be there.<br>
 Easy to panic, ayaw nag bobother ng ibang people, very genuine and maalalahanin sa friends and families
 <br>
-I notice babi always want ng attention, acts childish when comfortable,, minsan nag aact tough and dominant ,,  mhmmm very very cutiee.. AGAIN HAPPY BIRTHDAYY LOVEEEYOUUUUY</p>`;
+I notice babi always want ng attention, acts childish when comfortable,, minsan nag aact tough and dominant ,,  mhmmm very very cutiee.. AGAIN HAPPY BIRTHDAYY LOVEEEYOUUUU!!!</p>`;
     } else if (type === 'text3') {
       popupContent.innerHTML = `<p style="color: red;">You are my favorite girl, always will be.. I love You So Much</p>`;
     }
