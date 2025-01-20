@@ -21,7 +21,7 @@ Easy to panic, ayaw nag bobother ng ibang people, very genuine and maalalahanin 
 <br>
 I notice babi always want ng attention, acts childish when comfortable,, minsan nag aact tough and dominant ,,  mhmmm very very cutiee.. AGAIN HAPPY BIRTHDAYY LOVEEEYOUUUUY</p>`;
     } else if (type === 'text3') {
-      popupContent.innerHTML = `<p style="color: red;">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>`;
+      popupContent.innerHTML = `<p style="color: red;">You are my favorite girl, always will be.. I love You So Much</p>`;
     }
   } else {
     popupContainer.classList.add('hidden');
